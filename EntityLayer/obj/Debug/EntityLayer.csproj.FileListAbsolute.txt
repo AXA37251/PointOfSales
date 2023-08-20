@@ -1,0 +1,6 @@
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\EntityLayer\obj\Debug\EntityLayer.pdb
