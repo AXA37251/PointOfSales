@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GmMwuGFkfy8klss4HsCNPDgpb6/VM5gwfOqmf0C25eaOPkdDD1v3SR+bmI/D4XI62o8nzL7ocoZDrJn9W6V8og==",
+  "dgSpecHash": "G4UaHtrHkDuR0Pcp45C04lpGvFIxs+jT7eef2t25CbGEK6GOAX43g9ezw10yy0M5gKWZuXbHlBpPrB2ix0GN6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\AXA37251\\Desktop\\AXA37251\\ASP.NET\\proy API_PostgreSQL_Swagger\\PointOfSales\\PointOfSales\\PointOfSales.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AXA37251\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

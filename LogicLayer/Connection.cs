@@ -4,7 +4,7 @@ namespace LogicLayer
 {
     public class Connection
     {
-        DataLayer.BDConnection connection = new DataLayer.BDConnection();
+        readonly DataLayer.BDConnection connection = new DataLayer.BDConnection();
 
         public int BDConnect(string user, string pass)
         {

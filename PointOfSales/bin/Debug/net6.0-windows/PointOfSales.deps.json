@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v6.0": {
       "PointOfSales/1.0.0": {
         "dependencies": {
-          "LogicLayer": "1.0.0"
+          "LogicLayer": "1.0.0",
+          "Microsoft.Bcl.AsyncInterfaces": "6.0.0"
         },
         "runtime": {
           "PointOfSales.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
         }
       },
       "DataLayer/1.0.0": {
@@ -27,11 +36,11 @@
           "LogicLayer.dll": {}
         }
       },
-      "Npgsql/7.0.4.0": {
+      "Npgsql/6.0.0.0": {
         "runtime": {
           "Npgsql.dll": {
-            "assemblyVersion": "7.0.4.0",
-            "fileVersion": "7.0.4.0"
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
           }
         }
       },
@@ -40,22 +49,6 @@
           "Microsoft.Bcl.HashCode.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "4.700.20.56604"
-          }
-        }
-      },
-      "Microsoft.Bcl.AsyncInterfaces/7.0.0.0": {
-        "runtime": {
-          "Microsoft.Bcl.AsyncInterfaces.dll": {
-            "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.0.22.51805"
-          }
-        }
-      },
-      "Microsoft.Extensions.Logging.Abstractions/6.0.0.0": {
-        "runtime": {
-          "Microsoft.Extensions.Logging.Abstractions.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.0.21.52210"
           }
         }
       }
@@ -67,6 +60,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==",
+      "path": "microsoft.bcl.asyncinterfaces/6.0.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512"
+    },
     "DataLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -77,22 +77,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Npgsql/7.0.4.0": {
+    "Npgsql/6.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
     "Microsoft.Bcl.HashCode/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Bcl.AsyncInterfaces/7.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.Logging.Abstractions/6.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

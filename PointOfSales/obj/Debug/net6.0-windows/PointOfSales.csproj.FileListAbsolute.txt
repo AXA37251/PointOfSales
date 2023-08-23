@@ -26,3 +26,4 @@ C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSa
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\Npgsql.xml
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.xml
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll

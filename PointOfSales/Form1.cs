@@ -2,7 +2,7 @@ namespace PointOfSales
 {
     public partial class Form1 : Form
     {
-        LogicLayer.Connection connection = new();
+        readonly LogicLayer.Connection connection = new();
 
         public Form1()
         {
@@ -19,9 +19,10 @@ namespace PointOfSales
             if (connection.BDConnect(Input_user.Text, Input_password.Text) == 1)
             {
                 MessageBox.Show("Succesful Login");
+            }else 
+            {
+                MessageBox.Show("invalid credentials");
             }
         }
-
-
     }
 }
