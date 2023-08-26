@@ -10,7 +10,6 @@ C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSa
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\DataLayer.pdb
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\DataLayer.dll.config
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.csproj.AssemblyReference.cache
-C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.Form1.resources
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.csproj.GenerateResource.cache
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.AssemblyInfoInputs.cache
@@ -27,3 +26,8 @@ C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSa
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\Npgsql.xml
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.xml
 C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.MainWindow.resources
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.Login.resources
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.UserAdd.resources
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.UserDelete.resources
+C:\Users\AXA37251\Desktop\AXA37251\ASP.NET\proy API_PostgreSQL_Swagger\PointOfSales\PointOfSales\obj\Debug\net6.0-windows\PointOfSales.UserEdit.resources

@@ -2,7 +2,7 @@
 
 namespace PointOfSales
 {
-    partial class Form1
+    partial class Login
     {
         private System.ComponentModel.IContainer components = null;
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
